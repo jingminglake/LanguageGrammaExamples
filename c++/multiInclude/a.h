@@ -1,7 +1,5 @@
 #ifndef A__H
 #define A__H
-
-#include "b.h"
 class B;
 
 class A {
